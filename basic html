@@ -1,8 +1,12 @@
 <html>
       <head>
         <title>
-            <h1>My School</h1>
+            My Frist code on GitHub
         </title>
+        <body> 
+        <h1> This is my frist code on gitHub </h1>
+        <p> I am Arun Kumar. I have done graduation in 2022;</p>
+        </body>
       </head>
 </html>
 
